@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jx6uk8EdF9RN12fVJQGEatJQ8m1ypaPbjUIgrpWFrQkevkPIGc5fQe+7lAxwY+CqyGNLhaV4nSINBjkBj/vfPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matthijs\\source\\repos\\UnityContainerDemo\\UnityContainerDemo\\UnityContainerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthijs\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Matthijs\\.nuget\\packages\\unity\\5.11.6\\unity.5.11.6.nupkg.sha512"
+  ],
+  "logs": []
+}

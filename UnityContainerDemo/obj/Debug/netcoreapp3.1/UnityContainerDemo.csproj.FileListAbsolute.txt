@@ -1,0 +1,16 @@
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\bin\Debug\netcoreapp3.1\UnityContainerDemo.exe
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\obj\Debug\netcoreapp3.1\UnityContainerDemo.csprojAssemblyReference.cache
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\obj\Debug\netcoreapp3.1\UnityContainerDemo.AssemblyInfoInputs.cache
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\obj\Debug\netcoreapp3.1\UnityContainerDemo.AssemblyInfo.cs
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\bin\Debug\netcoreapp3.1\UnityContainerDemo.deps.json
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\bin\Debug\netcoreapp3.1\UnityContainerDemo.runtimeconfig.json
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\bin\Debug\netcoreapp3.1\UnityContainerDemo.runtimeconfig.dev.json
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\bin\Debug\netcoreapp3.1\UnityContainerDemo.dll
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\bin\Debug\netcoreapp3.1\UnityContainerDemo.pdb
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\bin\Debug\netcoreapp3.1\Unity.Abstractions.dll
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\bin\Debug\netcoreapp3.1\Unity.Container.dll
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\obj\Debug\netcoreapp3.1\UnityContainerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\obj\Debug\netcoreapp3.1\UnityContainerDemo.csproj.CopyComplete
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\obj\Debug\netcoreapp3.1\UnityContainerDemo.dll
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\obj\Debug\netcoreapp3.1\UnityContainerDemo.pdb
+C:\Users\Matthijs\source\repos\UnityContainerDemo\UnityContainerDemo\obj\Debug\netcoreapp3.1\UnityContainerDemo.genruntimeconfig.cache
